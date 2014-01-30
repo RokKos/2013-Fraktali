@@ -27,3 +27,4 @@ Uporabo si poglejte na primeru v datoteki numpy_pillow_example.py
 
 * Jure Slak (jureslak) - [bom že nekaj našej](http://google.com)
 * Jaka Grbac -[tisti trikotniki](http://nazimcankaya.net/fraktal_dosyalar/image005.jpg)
+* Miha Černe -[julia_set](http://en.wikipedia.org/wiki/Julia_set)
