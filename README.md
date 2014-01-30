@@ -18,3 +18,4 @@ in
 
 
 * Janez Novak - [super fraktal](https://www.google.si/?gws_rd=cr&ei=SnbqUsSkCoXYswa314CQBA#q=super+fraktal)
+* Jaka Grbac -[tisti trikotniki](http://nazimcankaya.net/fraktal_dosyalar/image005.jpg)
