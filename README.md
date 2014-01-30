@@ -13,8 +13,15 @@ in
     def default_settings():
         return "seznam petih najlepših parametrov za make_fractal"
         
+
+Uporabljali bomo dve zunanji knjižnjici, NumPy in Pillow, za hitro računanje in delo s
+slikami. 
+Dobite jih tukaj, inštalirajte pravo verzijo glede na python, ki ga imate na računalniku.
+
+[Pillow](https://pypi.python.org/pypi/Pillow/2.3.0#downloads) verzija 2.3.0
+[NumPy](http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy) verzija 1.8.0
+
         
 ## Seznam:
 
-
-* Janez Novak - [super fraktal](https://www.google.si/?gws_rd=cr&ei=SnbqUsSkCoXYswa314CQBA#q=super+fraktal)
+* Jure Slak (jureslak) - [bom že nekaj našej](http://google.com)
