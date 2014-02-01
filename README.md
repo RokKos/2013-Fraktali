@@ -29,6 +29,7 @@ Uporabo si poglejte na primeru v datoteki numpy_pillow_example.py
 ## Seznam:
 
 * Jure Slak (jureslak) - [bom že nekaj našej](http://google.com)
+* Natan Žabkar (nightmarebadger) - [eden izmed "krožnih" fraktalov](https://www.google.si/search?q=circle+fractal&safe=off&espv=210&es_sm=93&tbm=isch&tbo=u&source=univ&sa=X&ei=OX3tUvOyH8GctQaT6oG4BQ&ved=0CCkQsAQ&biw=1680&bih=925#imgdii=_)
 * Jaka Grbac (chemlife) -[tisti
   trikotniki](http://nazimcankaya.net/fraktal_dosyalar/image005.jpg)
 * Miha Černe -[julia_set](http://en.wikipedia.org/wiki/Julia_set)
