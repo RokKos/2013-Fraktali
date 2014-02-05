@@ -33,3 +33,4 @@ Uporabo si poglejte na primeru v datoteki numpy_pillow_example.py
 * Jaka Grbac (chemlife) -[tisti
   trikotniki](http://nazimcankaya.net/fraktal_dosyalar/image005.jpg)
 * Miha Černe -[julia_set](http://en.wikipedia.org/wiki/Julia_set)
+*Jure Tič - [Zlata / Fibonaccijeva spirala] (http://en.wikipedia.org/wiki/Golden_spiral) 
