@@ -43,10 +43,11 @@ Uporabo si poglejte na primeru v datoteki numpy_pillow_example.py
 
 ## Seznam:
 
-* Jure Slak (jureslak) - [bom že nekaj našej](http://google.com)
+* Jure Slak (jureslak) - [bom že nekaj našel](http://google.com)
 * Natan Žabkar (nightmarebadger) - [eden izmed "krožnih"
   fraktalov](https://www.google.si/search?q=circle+fractal&tbm=isch)
 * Jaka Grbac (chemlife) -[tisti
   trikotniki](http://nazimcankaya.net/fraktal_dosyalar/image005.jpg)
-* Miha Černe -[julia_set](http://en.wikipedia.org/wiki/Julia_set)
-* Jure Tič - [Zlata / Fibonaccijeva spirala](http://en.wikipedia.org/wiki/Golden_spiral)
+* Miha Černe -[Julia set](http://en.wikipedia.org/wiki/Julia_set)
+* Jure Tič - [Zlata / Fibonaccijeva
+  spirala](http://en.wikipedia.org/wiki/Golden_spiral)
