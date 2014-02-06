@@ -30,8 +30,8 @@ install`.
 Npr. če ste stvar downloadali na namizje, bi na šolskih računalnikih
 instalirali tako, da bi odprli command prompt in izvedli ukaze:
 
-cd Namizje/Pillow
-python setup.py install
+    cd Namizje/Pillow
+    python setup.py install
 
 Če ste na šolskih računalnikih, bo namesto `python` verjetno treba vpisati
 celotno pot, torej nekaj kot `C:\Python32\python.exe setup.py install`.
