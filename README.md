@@ -48,5 +48,5 @@ Uporabo si poglejte na primeru v datoteki numpy_pillow_example.py
   fraktalov](https://www.google.si/search?q=circle+fractal&tbm=isch)
 * Jaka Grbac (chemlife) -[apollonian gasket](http://en.wikipedia.org/wiki/Apollonian_gasket)
 * Miha Černe -[Julia set](http://en.wikipedia.org/wiki/Julia_set)
-* Jure Tič - [Zlata / Fibonaccijeva
+* Jure Tič (capitanpirk) - [Zlata / Fibonaccijeva
   spirala](http://en.wikipedia.org/wiki/Golden_spiral)
