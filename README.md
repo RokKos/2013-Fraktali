@@ -50,3 +50,4 @@ Uporabo si poglejte na primeru v datoteki numpy_pillow_example.py
 * Miha Černe -[Julia set](http://en.wikipedia.org/wiki/Julia_set)
 * Jure Tič (capitanpirk) - [Zlata / Fibonaccijeva
   spirala](http://en.wikipedia.org/wiki/Golden_spiral)
+* Lucija Gruden (lucigruden) - hexaflake
