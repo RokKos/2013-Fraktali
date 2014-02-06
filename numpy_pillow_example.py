@@ -18,3 +18,18 @@ array = numpy.uint8(numpy.random.randint(0, 255, size=(800, 800, 3)))
 #naredimo sliko in jo pokažemo
 img = Image.fromarray(array, 'RGB')
 img.show()
+
+
+#### ALI ####
+
+from PIL import Image
+from random import randint
+
+img = Image.new( 'RGB', (255,255), "black") # create a new black image
+pixels = img.load() # create the pixel map
+
+for i in range(img.size[0]):    # for every pixel:
+    for j in range(img.size[1]):
+        pixels[i,j] = (i,0,i) # set the colour accordingly
+ 
+img.save(r'C:\Users\bajecklemen\Desktop\image6.png')
