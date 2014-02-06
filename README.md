@@ -21,6 +21,21 @@ ki ga imate na računalniku.
 * [Pillow](https://pypi.python.org/pypi/Pillow/2.3.0#downloads) verzija 2.3.0
 * [NumPy](http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy) verzija 1.8.0
 
+Če nimate admin pravic ne morete instalirati z uporabo .exe datoteke, zato je
+treba dobiti Python source (ponavadi .tar.gz ali .rar) in ga instalirati na
+roke. To naredite tako, da odpakirate downloadano datoteko (vsebovati mora
+datoteko `setup.py`) in nato v komandni vrstici zaženete `python setup.py
+install`.
+
+Npr. če ste stvar downloadali na namizje, bi na šolskih računalnikih
+instalirali tako, da bi odprli command prompt in izvedli ukaze:
+
+cd Namizje/Pillow
+python setup.py install
+
+Če ste na šolskih računalnikih, bo namesto `python` verjetno treba vpisati
+celotno pot, torej nekaj kot `C:\Python32\python.exe setup.py install`.
+
 Če kdo slučajno uporablja Linux, naj kontaktira
 [Natana](mailto:natan.zabkar@gmail.com) za navodila.
 
@@ -33,4 +48,4 @@ Uporabo si poglejte na primeru v datoteki numpy_pillow_example.py
 * Jaka Grbac (chemlife) -[tisti
   trikotniki](http://nazimcankaya.net/fraktal_dosyalar/image005.jpg)
 * Miha Černe -[julia_set](http://en.wikipedia.org/wiki/Julia_set)
-* Jure Tič - [Zlata / Fibonaccijeva spirala] (http://en.wikipedia.org/wiki/Golden_spiral) 
+* Jure Tič - [Zlata / Fibonaccijeva spirala](http://en.wikipedia.org/wiki/Golden_spiral)
