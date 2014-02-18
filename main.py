@@ -7,12 +7,13 @@ class App(object):
     def __init__(self, master):
         self.ulx, self.uly, self.drx, self.dry, self.def_width = default_settings()
         self.image = ImageTk.PhotoImage(make_fractal(*default_settings()))
-        self.img_label = Label(image=self.image)
-        self.img_label.image = self.image
-        self.img_label.pack()
+        self.canvas = Canvas(master, width=self.image.width(), height=self.image.height())
+        self.canvas.pack()
+        self.canvas.create_image(0,0,image=self.image, anchor=NW)
         
-        self.img_label.bind('<ButtonPress-1>', self.press)
-        self.img_label.bind('<ButtonRelease-1>', self.release)
+        self.canvas.bind('<ButtonPress-1>', self.press)
+        self.canvas.bind('<ButtonRelease-1>', self.release)
+        self.canvas.bind('<B1-Motion>', self.motion)
 
     def press(self, event):
         self.sx, self.sy = event.x, event.y
@@ -24,9 +25,7 @@ class App(object):
 
         sysw = self.drx - self.ulx
         sysh = self.uly - self.dry
-        imw = self.image.width()
-        imh = self.image.height()
-
+        imw, imh = self.image.width(), self.image.height()
 
         oldx, oldy = self.ulx, self.dry
 
@@ -37,11 +36,21 @@ class App(object):
 
         self.update_image()
 
+    def motion(self, event):
+        if self.sx == -1: return
+        ex, ey = event.x, event.y
+        try:
+            self.canvas.delete(self.rect)
+        except: pass
+        finally:
+            self.rect = self.canvas.create_rectangle((self.sx, self.sy, ex, ey), fill='',
+                    outline='white')
+
     def update_image(self):
         img  = make_fractal(self.ulx, self.uly, self.drx, self.dry, self.def_width)
         self.image = ImageTk.PhotoImage(img)
-        self.img_label.config(image=self.image)
-        self.img_label.image = self.image
+        self.canvas.config(width=self.image.width(), height=self.image.height())
+        self.canvas.create_image(0,0,image=self.image,anchor=NW)
 
 root = Tk()
 app = App(root)
