@@ -43,7 +43,7 @@ Uporabo si poglejte na primeru v datoteki numpy_pillow_example.py
 
 ## Seznam:
 
-* Jure Slak (jureslak) - [bom že nekaj našel](http://google.com)
+* Jure Slak (jureslak) - [Mandelbrot set](http://en.wikipedia.org/wiki/Mandelbrot_set)
 * Natan Žabkar (nightmarebadger) - [eden izmed "krožnih"
   fraktalov](https://www.google.si/search?q=circle+fractal&tbm=isch)
 * Jaka Grbac (chemlife) -[apollonian gasket](http://en.wikipedia.org/wiki/Apollonian_gasket)
