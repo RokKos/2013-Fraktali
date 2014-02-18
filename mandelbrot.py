@@ -30,4 +30,4 @@ def make_fractal(ulx, uly, drx, dry, img_width):
     return im
 
 def default_settings():
-    return (-2.2,1.2,0.7,-1.2,400)
+    return (-2.2,1.2,0.7,-1.2,500)
