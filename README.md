@@ -43,6 +43,7 @@ Uporabo si poglejte na primeru v datoteki numpy_pillow_example.py
 
 ## Seznam:
 
+* Jon Galonja (Jonislav) - [Dragon curve] (http://hollymath.com/2013/06/04/fractal-education-the-dragon-curve/)
 * Jure Slak (jureslak) - [Mandelbrot set](http://en.wikipedia.org/wiki/Mandelbrot_set)
 * Natan Žabkar (nightmarebadger) - [eden izmed "krožnih"
   fraktalov](https://www.google.si/search?q=circle+fractal&tbm=isch)
