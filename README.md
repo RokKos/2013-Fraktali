@@ -53,3 +53,4 @@ Uporabo si poglejte na primeru v datoteki numpy_pillow_example.py
   spirala](http://en.wikipedia.org/wiki/Golden_spiral)
 * Lucija Gruden (lucigruden) - hexaflake
 * Aljaž Podgornik (whiterocket) - [Sierpinski trikotnik](http://en.wikipedia.org/wiki/Sierpinski_triangle)
+* Rok Kovač (kovarok) - [Pitagorejsko drevo](http://en.wikipedia.org/wiki/Pythagoras_tree_%28fractal%29)
