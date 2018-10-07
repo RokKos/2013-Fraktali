@@ -62,3 +62,25 @@ Uporabo si poglejte na primeru v datoteki numpy_pillow_example.py
 * Lucija Gruden (lucigruden) - hexaflake
 * Aljaž Podgornik (whiterocket) - [Sierpinski trikotnik](http://en.wikipedia.org/wiki/Sierpinski_triangle)
 * Rok Kovač (kovarok) - [Pitagorejsko drevo](http://en.wikipedia.org/wiki/Pythagoras_tree_%28fractal%29)
+
+
+## Primer:
+Julia sets - [Rok Kos](https://github.com/RokKos)
+
+![Julia set 01][Julia-set-01]
+
+![Julia set 02][Julia-set-02]
+
+![Julia set 03][Julia-set-03]
+
+![Julia set 04][Julia-set-04]
+
+
+[Julia-set-01]:		https://github.com/RokKos/FRI_Programiranje/blob/master/img/julia_set_1.png
+ "Julia set 01"
+ [Julia-set-02]:		https://github.com/RokKos/FRI_Programiranje/blob/master/img/julia_set_2.png
+ "Julia set 02"
+[Julia-set-03]:		https://github.com/RokKos/FRI_Programiranje/blob/master/img/julia_set_3.png
+ "Julia set 03"
+ [Julia-set-04]:		https://github.com/RokKos/FRI_Programiranje/blob/master/img/julia_set_4.png
+ "Julia set 04"
