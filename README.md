@@ -76,11 +76,11 @@ Julia sets - [Rok Kos](https://github.com/RokKos)
 ![Julia set 04][Julia-set-04]
 
 
-[Julia-set-01]:		https://github.com/RokKos/FRI_Programiranje/blob/master/img/julia_set_1.png
+[Julia-set-01]:		https://github.com/RokKos/2013-Fraktali/blob/master/img/julia_set_0.png
  "Julia set 01"
- [Julia-set-02]:		https://github.com/RokKos/FRI_Programiranje/blob/master/img/julia_set_2.png
+ [Julia-set-02]:		https://github.com/RokKos/2013-Fraktali/blob/master/img/julia_set_2.png
  "Julia set 02"
-[Julia-set-03]:		https://github.com/RokKos/FRI_Programiranje/blob/master/img/julia_set_3.png
+[Julia-set-03]:		https://github.com/RokKos/2013-Fraktali/blob/master/img/julia_set_3.png
  "Julia set 03"
- [Julia-set-04]:		https://github.com/RokKos/FRI_Programiranje/blob/master/img/julia_set_4.png
+ [Julia-set-04]:		https://github.com/RokKos/2013-Fraktali/blob/master/img/julia_set_4.png
  "Julia set 04"
