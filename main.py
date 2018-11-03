@@ -1,5 +1,7 @@
 from tkinter import *
 from PIL import Image, ImageTk
+from time import sleep
+from collections import namedtuple
 from mandelbrot import *
 from julia_set import *
 
@@ -27,11 +29,15 @@ class App(object):
         self.iterslider.grid(row=1, column=1)
         self.iterslider.bind('<ButtonRelease-1>', self.update_image)
 
+        self.animate_it = 0
+
     def press(self, event):
         self.sx, self.sy = event.x, event.y
+        print("press", event.x, event.y)
 
     def release(self, event):
         self.ex, self.ey = event.x, event.y
+        print("release", event.x, event.y)
         if self.ex == self.sx or self.ey == self.sy:
             return
 
@@ -75,4 +81,12 @@ class App(object):
 root = Tk()
 root.wm_title("Fractal Explorer")
 app = App(root)
-root.mainloop()
+
+Event = namedtuple('Event', 'x y')
+
+while True:
+    app.press(Event(10, 10))
+    app.release(Event(502, 502))
+    root.update_idletasks()
+    root.update()
+    sleep(0.3)
